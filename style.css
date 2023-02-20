@@ -1,0 +1,7 @@
+.padd{
+    padding: 20px;
+    margin: 5%;
+    border: solid red;
+}
+ .outer{
+    border: dashed black;
